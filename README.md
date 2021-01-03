@@ -1,5 +1,5 @@
 # restaurant-apps-cafekuy
-This repo contains learning submission projects coded in Indonesia
+This repo contains learning submission projects of DICODING INDONESIA
 
 # How to use ?
 
